@@ -1,0 +1,14 @@
+.container {
+  background-color: mediumaquamarine;
+}
+
+.avatar {
+  background-image: url('./imgs/batman.png');
+  background-size: contain;
+  width: 100px;
+  height: 100px;
+}
+
+.btn {
+  cursor: pointer;
+}
